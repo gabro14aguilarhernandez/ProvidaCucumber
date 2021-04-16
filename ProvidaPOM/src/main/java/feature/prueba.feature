@@ -17,6 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 #HI
+#Hi
 @tag
 Feature: Title of your feature
   I want to use this template for my feature file
